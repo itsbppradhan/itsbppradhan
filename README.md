@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm @itsbppradhan  
 
-<!--
-**itsbppradhan/itsbppradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer | System Innovator | Designer | Photographer  
 
-Here are some ideas to get you started:
+Passionate about crafting seamless digital experiences across **Android, Windows, Linux, and Servers**. I specialize in **system architecture, software development, UI/UX design, and digital art**, blending creativity with technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Developer, Designer & Artist  
+Beyond code, I explore **realism, landscapes, human figures, and watercolor painting**, integrating artistic sensibilities into my projects for a refined, aesthetic touch.  
+
+### 📸 Professional Photographer  
+Capturing moments through the lens—specializing in **landscapes, portraits, and urban storytelling**. I blend photography with digital design for compelling visual experiences.  
+
+### 🏗 The B.OS Ecosystem  
+Actively developing **B.OS**—a cutting-edge **operating system and ecosystem**, built for adaptability, performance, and future-focused computing.  
+
+### 🛠 Tech & Tools  
+- **Platforms**: Android | Windows | Linux | Server Environments  
+- **Expertise**: Full-Stack Development | UI/UX Design | System Management | Digital Art  
+- **Programming**: Adaptable to any language—leveraging the best tools for every challenge  
+
+### 🌐 Beyond Code  
+Hosting self-managed services like **Nextcloud, Gitea, Jellyfin**, and running a **Minecraft server**. Constantly pushing boundaries at the intersection of **art, photography, and technology**.  
+
+📫 **Let’s connect & create something amazing!**  
+[Say hi 👋](https://itsbppradhan.bio.link)
